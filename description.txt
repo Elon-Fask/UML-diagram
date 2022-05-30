@@ -1,4 +1,0 @@
->>> Dolyipran.ma
-est une siteweb qui permet de faciliter tous l'action entre un client et doctour de pharmasi et respensable de parapharmasi. 
-le site donner l'ocation de demander un services ce dernier peu etre un medicament, controle ou consultatiom, 
-aprer choisir le type de service le docteur il contenu la validation d'operation.
